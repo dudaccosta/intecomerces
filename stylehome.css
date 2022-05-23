@@ -1,0 +1,38 @@
+body {
+    background-color: #FFFF;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    margin: 10px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgba(20, 20, 121, 0.808);
+}
+
+.logo {
+    height: 100%;
+}
+
+.name {
+    color: rgba(20, 20, 121, 0.808);
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    left: 70px;
+    top: 0px;
+}
+
+.fundo {
+    position: absolute;
+    top: 100px;
+    width: 1200px;
+    height: 1880px;
+    right: 90px;
+    background-color: #8cc0f0c7;
+}
